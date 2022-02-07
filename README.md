@@ -15,12 +15,12 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Unix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Router" height="30" width="40" src="https://pngset.com/images/react-router-logo-vector-footprint-transparent-png-2201300.png">
-  <img align="center" alt="Redux" height="30" width="40" src="https://img.favpng.com/2/19/0/redux-react-javascript-angular-cascading-style-sheets-png-favpng-5qbLwUmLTV8RqbHEPT2iY757K.jpg"> 
+  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> 
 </div>
   
  ---
