@@ -8,10 +8,12 @@
 
 ---
 
-<div style="display: inline_block" align="center"><br>
-  <a href="https://github.com/rafaelPermec">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelPermec&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>       
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelPermec&langs_count=7&theme=calm&layout=compact"/>
+<div style="display: inline_block" align="center">
+  <br>
+    <a href="https://github.com/rafaelPermec">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelPermec&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+   <br>
+    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelPermec&langs_count=7&theme=calm&layout=compact"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -39,9 +41,14 @@
 </div>
   
 ---
-
-
-  
+  <div style="display: inline_block" align="center">
+    <h2 align="center" font-family="monospace">Git Flow:</h2> 
+      <br>
+    <a margin="0 auto" href="https://github.com/rafaelPermec">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelPermec&theme=solarized_dark" width="500">
+      </a>
+    <br> 
+  </div>
 
   
 
