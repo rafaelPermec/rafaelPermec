@@ -1,12 +1,9 @@
 # Hello world ! I'm Rafael P. M. Castro !
 
-<blockquote> 
-  <div style="display: block">
-    - 🌱 <b>I'm a Student</b> of Fullstack Software Development at Trybe ! #vqv 
-    - 🔭 Currently searching for <b>freelancer work</b>.
-    - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
-  </div>  
-</blockquote> 
+
+- 🌱 <b>I'm a Student</b> of Fullstack Software Development at Trybe ! #vqv 
+- 🔭 Currently searching for <b>freelancer work</b>.
+- ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
 
 
 
