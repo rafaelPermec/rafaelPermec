@@ -1,8 +1,13 @@
 # Hello world ! I'm Rafael P. M. Castro !
 
-- 🌱 <b>I'm a Student</b> of Fullstack Software Development at Trybe ! #vqv 
-- 🔭 Currently searching for <b>freelancer work</b>.
-- ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
+<blockquote> 
+  <div style="display: block">
+    - 🌱 <b>I'm a Student</b> of Fullstack Software Development at Trybe ! #vqv 
+    - 🔭 Currently searching for <b>freelancer work</b>.
+    - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
+  </div>  
+</blockquote> 
+
 
 
 
@@ -17,11 +22,12 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <blockquote>
+
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> 
   <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> 
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   </blockquote> 
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> 
+
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
