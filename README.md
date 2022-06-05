@@ -38,11 +38,30 @@
   <h1 align="center" font-family="monospace">Connect with me!</h1>
   <br>
 <div style="display: inline_block" align="center">
-<a href = "mailto:dev.rafaelpermec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://rafaelpermec.slack.com/home" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/rafael-permec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/o.perdigao/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-
-
- <a href="https://twitter.com/rafaelpermec" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> <a href="https://account.xbox.com/pt-br/Profile?xr=mebarnav&rtc=1" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a> <a href="https://steamcommunity.com/profiles/76561198382720605/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  <a href="https://open.spotify.com/user/12142389777" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.linkedin.com/in/rafael-permec/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:dev.rafaelpermec@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a> 
+  <a href = "https://rafaelpermec.slack.com/home" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.instagram.com/o.perdigao/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>   
+  <a href="https://twitter.com/rafaelpermec" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://account.xbox.com/pt-br/Profile?xr=mebarnav&rtc=1" target="_blank">
+    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://steamcommunity.com/profiles/76561198382720605/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+  </a>  
+  <a href="https://open.spotify.com/user/12142389777" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  </a> 
 </div>
   
 ---
