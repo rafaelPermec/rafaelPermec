@@ -2,7 +2,7 @@
 
 
 - 🌱 <b>I'm a Student</b> of Fullstack Software Development at Trybe ! #vqv 
-- 🔭 Currently searching for <b>full-time jobs</b> and always <b>freelancer & open-source projects</b>.
+- 🔭 Currently searching for <b>full-time job</b> and always <b>freelancer & open-source projects</b>.
 - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
 
 
