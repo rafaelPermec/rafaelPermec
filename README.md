@@ -2,7 +2,7 @@
 
 
 - 🌱 <b>I'm a Student</b> of Fullstack Software Development at Trybe ! #vqv 
-- 🔭 I'm currently <b>Fullstack Developer</b> at [<b>Monocard</b>](https://loja.monocard.com.br/) and always looking for <b>freelancer & open-source projects</b>.
+- 🔭 I'm <b>Fullstack Developer</b> at [<b>Monocard</b>](https://loja.monocard.com.br/) and always looking for <b>freelancer & open-source projects</b>.
 - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
 
 
