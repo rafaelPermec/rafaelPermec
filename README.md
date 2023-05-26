@@ -3,7 +3,7 @@
 
 - 🌱 <b>I was student</b> of Fullstack Software Development at [<b>Trybe</b>](https://www.betrybe.com/) ! #vqv
 - 📝 Currently doing [Professional IT Automation Python <b>Google</b> Course](https://www.coursera.org/professional-certificates/google-it-automation) and [<b>Amazon Web Service</b> Cloud Essentials Learning Plan](https://explore.skillbuilder.aws/learn/signin) 
-- 🔭 I'm <b>Fullstack Developer</b> who's always looking for <b>freelancer & open-source projects</b>.
+- 🔭 I'm <b>Fullstack Developer</b> as [Tania Bulhões](https://www.taniabulhoes.com.br/) and [Tania B](https://taniab.com/) e-commerce, who's always looking for <b>freelancer & open-source projects</b>.
 - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs system and decided that the future is about technology!
 
 
