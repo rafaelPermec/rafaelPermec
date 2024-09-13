@@ -1,9 +1,9 @@
 # Hello world ! I'm Rafael P. M. Castro !
 
 
-- 🌱 <b>I was student</b> of Fullstack Software Development at [<b>Trybe</b>](https://www.betrybe.com/) ! #vqv
-- 📝 Currently doing [Google Cybersecurity Professional Certificate Course](https://www.coursera.org/programs/trybe-google-learning-program-hrevt/professional-certificates/google-cybersecurity?collectionId=IiPR9) and [<b>Amazon Web Service</b> Cloud Essentials Learning Plan](https://explore.skillbuilder.aws/learn/signin) 
-- 🔭 I'm <b>Fullstack Developer</b>, who's always looking for <b>freelancer, new technologies & open-source projects</b>.
+- 🌱 <b>I was student</b> of Fullstack Software Development at [<b>Trybe</b>](https://www.betrybe.com/) ( #vqv ) and currently studying systems administration (CTS) at [<b>PUC-RS</b>](https://online.pucrs.br/pt-br/) !
+- 📝 Currently doing [<b>Google</b> Cybersecurity Professional Certificate Course](https://www.coursera.org/programs/trybe-google-learning-program-hrevt/professional-certificates/google-cybersecurity?collectionId=IiPR9) and [<b>Amazon Web Service</b> at <b>Escola da Nuvem</b>](https://escoladanuvem.org/) 
+- 🔭 I'm <b>Javascript / Typescript Fullstack Developer</b>, who's always looking for <b>freelancer, new technologies & open-source projects</b>.
 - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs PDV system and decided that the future is about technology!
 
 
