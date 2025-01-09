@@ -2,7 +2,7 @@
 
 
 - 🌱 <b>I was student</b> of Fullstack Software Development at [<b>Trybe</b>](https://www.betrybe.com/) ( #vqv ) and currently studying strategic planning and analysis systems development (CTS) at [<b>PUC-RS</b>](https://online.pucrs.br/pt-br/) !
-- 📝 Currently doing [<b>Google</b> Cybersecurity Professional Certificate Course](https://www.coursera.org/programs/trybe-google-learning-program-hrevt/professional-certificates/google-cybersecurity?collectionId=IiPR9) and [<b>Amazon Web Service</b> at <b>Escola da Nuvem</b>](https://escoladanuvem.org/) 
+- 📝 Currently doing [<b>Google</b> IT Automation with Python Professional Certificate](https://www.coursera.org/programs/trybe-google-learning-program-hrevt/professional-certificates/google-it-automation) and [<b>Angular & React Native</b> at <b>Frontend Masters</b>]([https://escoladanuvem.org/](https://frontendmasters.com/learn/angular/)) 
 - 🔭 I'm <b>Javascript / Typescript Fullstack Developer</b>, who's always looking for <b>freelancer, new technologies & open-source projects</b>.
 - ⚡ <b>Fun fact</b>: I used to be a chef, who fell in love with his Oracle micrOs PDV system and decided that the future is about technology!
 
