@@ -3,7 +3,7 @@
 
 - 🌱 <b>I was student</b> of Fullstack Software Development at [<b>Trybe</b>](https://www.betrybe.com/) ( #vqv ) and currently studying strategic planning and analysis systems development (CTS) at [<b>PUC-RS</b>](https://online.pucrs.br/pt-br/) !
 - 📝 Currently doing [<b>Google</b> IT Automation with Python Professional Certificate](https://www.coursera.org/programs/trybe-google-learning-program-hrevt/professional-certificates/google-it-automation) and [<b>Angular & React Native</b> at <b>Frontend Masters</b>](https://frontendmasters.com/learn/angular/) 
-- 🔭 I'm <b>Javascript / Typescript Fullstack Developer</b>, who's always looking for <b>new technologies & open-source projects</b>.
+- 🔭 I'm <b>Javascript / Typescript & Python Fullstack Developer</b>, who's always looking for <b>new technologies & open-source projects</b>.
 
 
 
@@ -11,10 +11,10 @@
 ---
 
 <div style="display: inline_block" align="center">
-  <br>
-    <a href="https://github.com/rafaelPermec">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelPermec&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-   <br>
+<!--   <br> -->
+<!--     <a href="https://github.com/rafaelPermec"> -->
+<!--     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelPermec&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> -->
+<!--    <br> -->
     <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelPermec&langs_count=7&theme=calm&layout=compact"/>
 </div>
   
